@@ -1,10 +1,10 @@
 ## 👋 Oii, Eu sou o Pedro Magalhães
 
-## About Me
+## Sobre mim
 - Estudante de Desenvolvimento de Sistemas no Senai Pompeia
 - Competidor na modalidade #17 - Tecnologias Web na SP Skills
 
-## My Techs
+## Minhas áres de desenvolvimento
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="java logo"  />
   <img width="12" />
@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
 </div>
 
-## My Stats
+## Meus status
 
 ###
 
