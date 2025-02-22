@@ -2,7 +2,6 @@
 
 ## Sobre mim
 - Estudante de Desenvolvimento de Sistemas no Senai Pompeia
-- Competidor na modalidade #17 - Tecnologias Web na SP Skills
 
 ## Minhas áres de desenvolvimento
 <div align="left">
