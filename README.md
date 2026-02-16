@@ -25,6 +25,8 @@
   <img src="https://skillicons.dev/icons?i=php" height="45" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="45" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" />
 </div>
 
 ---
